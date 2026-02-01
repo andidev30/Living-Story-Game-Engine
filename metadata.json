@@ -1,0 +1,8 @@
+{
+  "name": "Chronicle: The Living Story Engine",
+  "description": "An immersive, AI-powered interactive narrative game where worlds evolve, characters remember, and every choice ripples through time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
